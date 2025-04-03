@@ -26,6 +26,7 @@ nav:
 - Home: index.md
 - Pokemon:
   - 001 - Bulbasaur: pokemon/001-bulbasaur.md
+  - 003 - Venusaur: pokemon/003-venusaur.md
 - Routes: []
 plugins:
 - search:
