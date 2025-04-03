@@ -24,7 +24,8 @@ theme:
       name: Switch to light mode
 nav:
 - Home: index.md
-- Pokemon: []
+- Pokemon:
+  - 001 - Bulbasaur: pokemon/001-bulbasaur.md
 - Routes: []
 plugins:
 - search:
